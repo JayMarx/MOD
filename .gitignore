@@ -1,0 +1,7 @@
+/Debug/*
+/Release/*
+/calibration/Debug/*
+/calibration/Release/*
+*.sdf
+*.suo
+*.opensdf
